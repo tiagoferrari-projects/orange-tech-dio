@@ -1,0 +1,1 @@
+Normalize: é um css que padroniza todo o estilo inicial.
