@@ -1,1 +1,4 @@
 Normalize: é um css que padroniza todo o estilo inicial.
+
+Técnica Mobile First: primeiro css mobile, para as posteriores incrementando. 
+Grau de reescrita de código é muito menor. 
